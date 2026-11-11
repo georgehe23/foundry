@@ -1,5 +1,11 @@
 # @galaxy-foundry/summarize-nextflow
 
+## 0.5.0
+
+### Minor Changes
+
+- [#777](https://github.com/galaxyproject/foundry/pull/777) [`871b5e6`](https://github.com/galaxyproject/foundry/commit/871b5e6deadfd56aeb5e2ba92eb8f6f50c8449ee) Thanks [@PavelAbramau](https://github.com/PavelAbramau)! - Carry publishDir, resolved ext.args, and template bodies in the Nextflow summary.
+
 ## 0.4.0
 
 ### Minor Changes
